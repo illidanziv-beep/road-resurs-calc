@@ -1,0 +1,27 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# Тестовые файлы
+test_*.py
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# Служебные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Резервные копии
+*.bak
+*.tmp
